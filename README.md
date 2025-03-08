@@ -4,6 +4,10 @@ Posterpräsentation für das Modul Wissenschaftliches Arbeiten und Lehren an der
 
 ## Quellen für das Poster (Poster_WAL_WS2425.pdf):
 
-Datensatz: https://discovery.cs.illinois.edu/dataset/gpa/
+Noten Datensatz: https://discovery.cs.illinois.edu/dataset/gpa/
 
 Noten-Mapping: Universität Potsdam: https://www.uni-potsdam.de/fileadmin/projects/international/docs/Notenumrechnung_L%C3%A4nder/Notenumrechnung_USA_IO.pdf
+
+Wetterdaten Chicago: https://www.kaggle.com/datasets/curiel/chicago-weather-database
+
+Wetterdaten München: https://www.kaggle.com/datasets/mexwell/weather-data-munich-1954-2022
